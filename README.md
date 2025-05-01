@@ -1,7 +1,5 @@
 # Price and Real Effect Share (PRES) Model
 
-## A New Approach for Analyzing Money Growth and Inflation Dynamics
-
 Imagine that you are holding a basket, and often you put in a handful of balls. These balls come in only two colors: orange and blue. The size of each handful varies — sometimes it's small, sometimes large. But no matter the size, every ball you drop into the basket must be either orange or blue. Over time, as you keep adding more and more balls, the mix in your basket begins to tell a story. If the majority of your handfuls are filled with blue balls, your basket will start looking more and more blue. If orange dominates, then so will the color inside. The essence of this analysis is understanding a mix similar to this. Specifically, when new money comes into the economy, what’s the price effect share (leading to inflation) and what’s the real effect share (leading to real output growth)? I am pleased to introduce new approach for inflation analysis based on a framework that can effectively decomposes the additional money supply into price effect share (PES) - share of the monetary impulse on influencing prices, and real effect share (RES) -  share of the monetary impulse on influencing real output.
 
 ## Theoretical Framework
