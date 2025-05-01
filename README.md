@@ -1,4 +1,4 @@
-# Price and Real Effect Share (PRES) Model A New Approach for Analyzing Money Growth and Inflation Dynamics
+# Price and Real Effect Share (PRES) Model
 
 ## A New Approach for Analyzing Money Growth and Inflation Dynamics
 
